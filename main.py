@@ -124,7 +124,7 @@ print("Training completed.")
 
 # Save the model and tokenizer
 print("Saving model and tokenizer...")
-model_save_path = "bert-phishing-classifier"
+model_save_path = "phishing_url_detection_BERT"
 trainer.save_model(model_save_path)
 tokenizer.save_pretrained(model_save_path)
 print(f"Model and tokenizer saved to {model_save_path}")
