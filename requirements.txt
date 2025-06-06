@@ -5,6 +5,8 @@ numpy
 torch
 scikit-learn
 torch
-
+flask
+gunicorn
+python-dotenv
 
 
