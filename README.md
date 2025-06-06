@@ -30,7 +30,7 @@ This project fine-tunes a BERT model for phishing URL detection using the Huggin
 
 ## Dataset
 
-The project uses a custom dataset for phishing URL classification, available at `darshan8950/phishing_url_detection_for_BERT` on the Hugging Face Hub.
+The project uses a custom dataset for phishing URL classification, available at `darshan8950/phishing_url_detection_BERT` on the Hugging Face Hub.
 
 ## Model
 
@@ -43,8 +43,8 @@ After fine-tuning, the model's performance can be evaluated using accuracy and A
 ## Additional Resource
 
 
-### Fine Tuned Model - [Link](https://huggingface.co/datasets/darshan8950/phishing_url_detection_for_BERT)
-### Dataset - [Link](https://huggingface.co/datasets/darshan8950/phishing_url_detection_for_BERT)
+### Fine Tuned Model - [Link](https://huggingface.co/datasets/darshan8950/phishing_url_detection_BERT)
+### Dataset - [Link](https://huggingface.co/datasets/darshan8950/phishing_url_classification)
 
 ## Contributing
 
