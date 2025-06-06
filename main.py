@@ -8,7 +8,7 @@ print("Starting script...")
 
 # Load the dataset from Hugging Face
 print("Loading dataset...")
-dataset = load_dataset("darshan8950/phishing_url_detection_for_BERT")
+dataset = load_dataset("darshan8950/phishing_url_classification")
 print(f"Dataset loaded. Keys: {dataset.keys()}")
 
 # Check available splits and create train/validation/test splits if necessary
